@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+#spring:
+#  webflux:
+#    base-path: /demo
+
+#logging:
+#  level:
+#    org.springframework: debug
